@@ -1,0 +1,28 @@
+.h1{
+    color: Red;
+    font-size:  23px;
+    font-style: italic;
+}
+.h2{
+    color: black;
+    font-weight: 400;
+    font-style: roboto;
+
+}
+.p{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+.span{
+    color: green
+
+
+}
+*{
+    background-color: green;
+}
+.b{
+    font-size: 50px;
+
+}
